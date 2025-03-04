@@ -10,7 +10,7 @@ Este projeto envolveu a análise do churn de clientes para entender os motivos d
 - Fornecer recomendações para reduzir o churn com base na análise.
 
 ## Fonte de Dados
-A análise foi realizada utilizando um conjunto de dados de uma empresa fictícia de telecomunicações chamada Cia Telecom. O conjunto de dados contém informações sobre os clientes e seu status de churn. Inclui vários atributos, como dados demográficos dos clientes, uso de serviços e detalhes da conta.
+A análise foi realizada utilizando um conjunto de dados de uma empresa americana fictícia de telecomunicações chamada Cia Telecom. O conjunto de dados contém informações sobre os clientes e seu status de churn. Inclui vários atributos, como dados demográficos dos clientes, uso de serviços e detalhes da conta.
 
 ## Ferramentas e Tecnologias
 - Power BI: Para visualização de dados e criação de relatórios.

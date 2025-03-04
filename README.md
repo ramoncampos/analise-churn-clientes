@@ -19,7 +19,7 @@ A análise foi realizada utilizando um conjunto de dados de uma empresa fictíci
 
 ## Principais Insights
 
-![Visão Geral da Análise de Churn de Clientes](https://github.com/krystalbrantley/customer_churn_analysis/blob/main/Customer%20Churn%20Overview.png?raw=true)
+![Visão Geral da Análise de Churn de Clientes](https://github.com/ramoncampos/analise-churn-clientes/blob/main/analise-churn-visao-geral.png?raw=true)
 - **Taxa de churn:** A taxa de churn da Cia Telecom é de ~27%.
 - **Principais razões pelas quais os clientes abandonam:**
   - Concorrentes fizeram uma oferta melhor
@@ -30,7 +30,7 @@ A análise foi realizada utilizando um conjunto de dados de uma empresa fictíci
 
 ## Exploração e Análise de Dados
 
-![Grupos e Categorias da Análise de Churn de Clientes](https://github.com/krystalbrantley/customer_churn_analysis/blob/main/Customer%20Churn%20Groups.png?raw=true)
+![Grupos e Categorias da Análise de Churn de Clientes](https://github.com/ramoncampos/analise-churn-clientes/blob/main/analise-churn-grupos.png?raw=true)
 
 ### Determinar a Taxa de Churn
 - A taxa de churn da Cia Telecom é aproximadamente 27%.
@@ -50,7 +50,7 @@ A análise foi realizada utilizando um conjunto de dados de uma empresa fictíci
 - **Planos Individuais vs. Planos de Grupo:** A taxa de churn para planos individuais é significativamente mais alta, 32,85%, comparado com planos de grupo com 2 ou mais pessoas. A cobrança média mensal para planos de grupo é mais baixa (cerca de $23) comparado com planos individuais ($33,50).
 - **Contratos Mensais vs. Anuais:** Contratos mensais têm uma taxa de churn mais alta em comparação com contratos anuais.
 
-![Análise de Churn de Clientes - Cobranças Extras](https://github.com/krystalbrantley/customer_churn_analysis/blob/main/Customer%20Churn%20Charges.png?raw=true)
+![Análise de Churn de Clientes - Cobranças Extras](https://github.com/ramoncampos/analise-churn-clientes/blob/main/analise-churn-extra.png?raw=true)
 
 #### Impacto do Plano de Dados Ilimitados
 - **Hipótese:** Pessoas que não possuem um plano de dados ilimitados têm maior probabilidade de churn.
@@ -61,7 +61,7 @@ A análise foi realizada utilizando um conjunto de dados de uma empresa fictíci
 - 72% das pessoas sem um plano internacional podem ser clientes potenciais para uma nova promoção.
 - A taxa de churn para clientes que pagam por um plano internacional, mas não fazem chamadas internacionais, é extremamente alta.
 
-![Insights da Análise de Churn de Clientes](https://github.com/krystalbrantley/customer_churn_analysis/blob/main/Customer%20Churn%20Insights.png?raw=true)
+![Insights da Análise de Churn de Clientes](https://github.com/ramoncampos/analise-churn-clientes/blob/main/analise-churn-insights.png?raw=true)
 
 ### Chamadas ao Serviço de Atendimento ao Cliente
 - Embora o uso de atendimento ao cliente seja maior para clientes que cancelam, a Califórnia se destaca com a maior taxa de churn e o menor número de chamadas ao atendimento.
@@ -93,12 +93,12 @@ Com base nas descobertas, as seguintes ações são recomendadas para reduzir o 
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/krystalbrantley/data-analyst-portfolio.git
-    cd data-analyst-portfolio/customer-churn-analysis
+    git clone [https://github.com/krystalbrantley/data-analyst-portfolio.git](https://github.com/ramoncampos/analise-churn-clientes)
+    cd analise-churn-clientes
     ```
 
 2. **Abra o Relatório no Power BI:**
-    - Abra o arquivo `Customer Churn Report.pbix` no Power BI Desktop.
+    - Abra o arquivo `relatorio-churn-clientes_v4.pbix` no Power BI Desktop.
     - Revise e interaja com o relatório para explorar a análise.
 
 3. **Revise a Análise e as Descobertas:**
